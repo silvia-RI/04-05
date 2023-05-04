@@ -1,0 +1,11 @@
+Apellidos:Rubio Izquierdo
+Nombre:Silvia
+Sexo:Femenino
+Nacionalidad:Española
+Nacimiento:14/09/1992
+Soporte:BND 139672
+Validez:12/11/2025
+Domicilio:calle moratilla de henares
+Lugar:Mostoles Madrid
+Padres:Teodoro / Lourdes
+Dni:47543595P
